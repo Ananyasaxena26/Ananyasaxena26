@@ -93,27 +93,8 @@ A wellness prediction and recommendation system built using machine learning and
 
 ---
 
-## 📊 GitHub Stats
+anyasaxena2611@gmail.com**
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Connect with Me
-
-📧 Email: **ananyasaxena2611@gmail.com**
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-💻 GitHub: https://github.com/YOUR_USERNAME
 
 🟠 LeetCode: https://leetcode.com/YOUR_USERNAME
 
