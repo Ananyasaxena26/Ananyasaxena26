@@ -93,15 +93,4 @@ A wellness prediction and recommendation system built using machine learning and
 
 ---
 
-anyasaxena2611@gmail.com**
-
-
-🟠 LeetCode: https://leetcode.com/YOUR_USERNAME
-
-🟤 CodeChef: https://www.codechef.com/users/YOUR_USERNAME
-
----
-
-<h3 align="center">
-✨ "Learning, Building, and Growing One Project at a Time." ✨
-</h3>
+ Connect with me --> ananyasaxena2611@gmail.com**
